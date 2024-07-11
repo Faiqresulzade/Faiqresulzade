@@ -11,7 +11,7 @@ Skills: C# / OOP / SOLID / DESIGN PATTERNS / ASP.NET CORE / MSSQL / MVC / GIT(GI
 - 📫 How to reach me: rsulzadefaiq@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Faiqresulzade/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Faiqresulzade/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Faiqresulzade/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Faiqresulzade/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Faiqresulzade/) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiqresulzade)](https://github.com/anuraghazra/github-readme-stats)
 
